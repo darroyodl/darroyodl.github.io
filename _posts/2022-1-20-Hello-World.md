@@ -31,12 +31,14 @@ Trainee site manager for the execution of electrical installation projects in lo
 ### Bachelor´s Degree in Industrial Engineering (Sep.2016-Jun.2020)
 
 #### [ICAI](https://www.icai.comillas.edu/)
+#### ![ICAI](https://github.com/darroyodl/darroyodl.github.io/blob/master/_posts/logo-icai-site.png)
 
 Final thesis: Installation of medium and low voltage in a logistics warehouse.
 
 ### Master´s Degree in Industrial Engineering (Sep.2020-Present)
 
 #### [ICAI](https://www.icai.comillas.edu/)
+#### ![ICAI](https://github.com/darroyodl/darroyodl.github.io/blob/master/_posts/logo-icai-site.png)
 
 Final thesis: Utility-scale battery participation model for Spanish electricity market.
 
