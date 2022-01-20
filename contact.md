@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-### Contact me
+### Feel free to contact me
 
 Mail:
 [diegoarroyodl@gmail.com](mailto:diegoarroyodl@gmail.com)
