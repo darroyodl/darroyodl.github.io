@@ -4,53 +4,38 @@ layout: post
 image: /images/QEnergy.jpg
 author: Diego A.
 categories: blogpocket
-title: About me
+title: Movie recommendations
 ---
-In this section you will find the latest version of my resume.
-
----
-## **PROFESSIONAL EXPERIENCE**
-
-### Renewable energy asset management (Sep.2021-Present)
-
-#### [Q-ENERGY](https://qualitasequity.com/qenergy/introduccion)
-
-Study of the feasibility of electrochemical battery projects in the Spanish electricity market, creating a market participation model that optimizes its profit.
-
-### Trainee site manager (Jun.2021-Sep.2021)
-
-#### [LEVITEC](https://levitec.es/)
-
-Trainee site manager for the execution of electrical installation projects in logistics warehouses. Material procurement, contact with suppliers and subcontractors and technical-economic planning of projects. Management of electrical installation project worth 800000€.
+In this section you will find my selection of best motion picture from 2000 to 2005.
 
 ---
-## **EDUCATION**
+## **2000**
 
-### Bachelor´s Degree in Industrial Engineering (Sep.2016-Jun.2020)
-
-#### [ICAI](https://www.icai.comillas.edu/)
-
-Final thesis: Installation of medium and low voltage in a logistics warehouse.
-
-### Master´s Degree in Industrial Engineering (Sep.2020-Present)
-
-#### [ICAI](https://www.icai.comillas.edu/)
-
-Final thesis: Utility-scale battery participation model for Spanish electricity market.
+### [Gladiator](https://www.imdb.com/title/tt0172495/?ref_=fn_al_tt_1)
 
 ---
-## **ADDITIONAL INFORMATION**
+## **2001**
 
-### Languages
+### [Gladiator](https://www.imdb.com/title/tt0172495/)
 
-English (fluent, Certificate in Advanced English from Cambridge University). 
+---
+## **2002**
 
-French (limited).
+### [Gangs of New York](https://www.imdb.com/title/tt0217505/?ref_=nv_sr_srsg_0)
 
-### Computer Skills
+---
+## **2003**
 
-Proffesional user of the Office Package (Excel, PowerPoint, Word).
+### [Mystic River](https://www.imdb.com/title/tt0327056/?ref_=fn_al_tt_1)
 
-R-Studio (medium, knowledge of Machine Learning techniques), Matlab (medium), C++ (limited), Python (limited).
+---
+## **2004**
+
+### [The Aviator](https://www.imdb.com/title/tt0338751/?ref_=fn_al_tt_1)
+
+---
+## **2005**
+
+### [Cinderella Man](https://www.imdb.com/title/tt0352248/?ref_=fn_al_tt_1)
 
 ---
