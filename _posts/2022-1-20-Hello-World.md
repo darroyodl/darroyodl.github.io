@@ -12,31 +12,36 @@ In this section you will find my selection of best motion picture from 2000 to 2
 ## **2000**
 
 ### [Gladiator](https://www.imdb.com/title/tt0172495/?ref_=fn_al_tt_1)
-![config.yml]({{ site.baseurl }}/images/Gladiator.jpg
+![config.yml]({{ site.baseurl }}/images/Gladiator.jpg)
 
 ---
 ## **2001**
 
 ### [A beautiful mind](https://www.imdb.com/title/tt0268978/?ref_=fn_al_tt_1)
+![config.yml]({{ site.baseurl }}/images/Mind.jpg)
 
 ---
 ## **2002**
 
 ### [Gangs of New York](https://www.imdb.com/title/tt0217505/?ref_=nv_sr_srsg_0)
+![config.yml]({{ site.baseurl }}/images/Gangs.jpg)
 
 ---
 ## **2003**
 
 ### [Mystic River](https://www.imdb.com/title/tt0327056/?ref_=fn_al_tt_1)
+![config.yml]({{ site.baseurl }}/images/Mystic.jpg)
 
 ---
 ## **2004**
 
 ### [The Aviator](https://www.imdb.com/title/tt0338751/?ref_=fn_al_tt_1)
+![config.yml]({{ site.baseurl }}/images/Aviator.jpg)
 
 ---
 ## **2005**
 
 ### [Cinderella Man](https://www.imdb.com/title/tt0352248/?ref_=fn_al_tt_1)
+![config.yml]({{ site.baseurl }}/images/Cinderella.jpg)
 
 ---
