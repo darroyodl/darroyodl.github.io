@@ -55,6 +55,5 @@ R-Studio (medium, knowledge of Machine Learning techniques), Matlab (medium), C+
 
 ---
 
-### Contact me
 
-[diegoarroyodl@gmail.com](mailto:diegoarroyodl@gmail.com)
+
