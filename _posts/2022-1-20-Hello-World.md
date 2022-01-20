@@ -14,7 +14,7 @@ In this section you will find the latest version of my resume.
 ### Renewable energy asset management (Sep.2021-Present)
 
 #### [Q-ENERGY](https://qualitasequity.com/qenergy/introduccion)
-#### ![QEnergy](https://github.com/darroyodl/darroyodl.github.io/blob/master/_posts/Levitec.JPG)
+#### ![QEnergy](https://github.com/darroyodl/darroyodl.github.io/blob/master/_posts/QEnergy.JPG)
 
 Study of the feasibility of electrochemical battery projects in the Spanish electricity market, creating a market participation model that optimizes its profit.
 
@@ -39,3 +39,17 @@ Final thesis: Installation of medium and low voltage in a logistics warehouse.
 #### [ICAI](https://www.icai.comillas.edu/)
 
 Final thesis: Utility-scale battery participation model for Spanish electricity market.
+
+---
+## **ADDITIONAL INFORMATION**
+
+### Languages
+
+English (fluent, Certificate in Advanced English from Cambridge University). French (limited).
+
+### Computer Skills
+
+Proffesional user of the Office Package (Excel, PowerPoint, Word).
+R-Studio (medium, knowledge of Machine Learning techniques), Matlab (medium), C++ (limited), Python (limited).
+
+---
