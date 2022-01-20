@@ -12,6 +12,7 @@ In this section you will find my selection of best motion picture from 2000 to 2
 ## **2000**
 
 ### [Gladiator](https://www.imdb.com/title/tt0172495/?ref_=fn_al_tt_1)
+![config.yml]({{ site.baseurl }}/images/Gladiator.jpg
 
 ---
 ## **2001**
